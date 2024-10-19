@@ -1,4 +1,7 @@
 ﻿# **HF Prop Data KDE Plasma Widget**
+
+ ![image](https://github.com/user-attachments/assets/48cd1175-7b6a-469c-bdd5-0bd5d4f034e7)
+
 Displays solar weather data from HamQSL, including Solar Flux, Sunspots, A-Index, K-Index, Geomagnetic Field, and Signal Noise.
 ## **Table of Contents**
 - [Features](#features)
