@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=HamQSL Solar Weather
+Comment=Displays solar weather data from HamQSL
+Icon=weather-sun
+Type=Service
+ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-KDE-PluginInfo-Author=chengmania
+X-KDE-PluginInfo-Email=kc3smw@gmail.com
+X-KDE-PluginInfo-Name=org.kde.hamqslsolarweather
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL-3.0
+
